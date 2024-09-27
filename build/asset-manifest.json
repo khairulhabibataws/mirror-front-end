@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d8a6af1.css",
+    "main.js": "/static/js/main.e3e87558.js",
+    "static/js/453.59cf457e.chunk.js": "/static/js/453.59cf457e.chunk.js",
+    "static/media/devilcmt_in.mp4": "/static/media/devilcmt_in.e51f840abf9534dd7a14.mp4",
+    "static/media/angelcmt_in.mp4": "/static/media/angelcmt_in.01c851941c1a2c2154aa.mp4",
+    "static/media/angelcmt_loop.mp4": "/static/media/angelcmt_loop.7291c23a5c8a88a13155.mp4",
+    "static/media/devilcmt_loop.mp4": "/static/media/devilcmt_loop.80f0a5d01eb7c9cd712c.mp4",
+    "static/media/angelcmt_out.mp4": "/static/media/angelcmt_out.dbcf1c0bb41c46357d68.mp4",
+    "static/media/devilcmt_out.mp4": "/static/media/devilcmt_out.5169e5987f1413132b28.mp4",
+    "static/media/mirror_simple.png": "/static/media/mirror_simple.d96fa164216fe1e91da5.png",
+    "static/media/mirror.mp4": "/static/media/mirror.0ea043caf9061f6388a0.mp4",
+    "static/media/Ratri Volutten.ttf": "/static/media/Ratri Volutten.2f48d2db0488c0a03ece.ttf",
+    "index.html": "/index.html",
+    "main.8d8a6af1.css.map": "/static/css/main.8d8a6af1.css.map",
+    "main.e3e87558.js.map": "/static/js/main.e3e87558.js.map",
+    "453.59cf457e.chunk.js.map": "/static/js/453.59cf457e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d8a6af1.css",
+    "static/js/main.e3e87558.js"
+  ]
+}
